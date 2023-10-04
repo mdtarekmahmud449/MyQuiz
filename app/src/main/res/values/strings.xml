@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="welcome">Welcome \nTo My Quiz App</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquam debitis deleniti, ea facilis magnam necessitatibus, nihil numquam possimus qui quia saepe tenetur velit, voluptatibus.</string>
+    <string name="get_started">Get Started</string>
+    <string name="login_text">Login</string>
+    <string name="please_login_amp_continue_with_us"><![CDATA[Please Login & Continue with US]]></string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="email">Email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="sing_up">Sing up</string>
+    <string name="please_sign_up_amp_continue_with_us"><![CDATA[Please sign up & Continue with US]]></string>
+    <string name="do_you_have_an_account_login">Do you have an account? Login</string>
+</resources>
