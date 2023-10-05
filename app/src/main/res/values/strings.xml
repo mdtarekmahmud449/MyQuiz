@@ -15,4 +15,8 @@
     <string name="sing_up">Sing up</string>
     <string name="please_sign_up_amp_continue_with_us"><![CDATA[Please sign up & Continue with US]]></string>
     <string name="do_you_have_an_account_login">Do you have an account? Login</string>
+    <string name="quiz_yourself_daily">Quiz yourself daily</string>
+    <string name="follow_us">Follow US</string>
+    <string name="rate_us">Rate US</string>
+    <string name="profile">Profile</string>
 </resources>
